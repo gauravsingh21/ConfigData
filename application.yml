@@ -1,3 +1,5 @@
+lucky-word : Hi
+
 ---
 spring:
   profiles: subject
